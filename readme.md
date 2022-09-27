@@ -6,7 +6,8 @@
 
 **Description:** This program generates a $\overrightarrow{d} ~\text{vs}~ t$, $\overrightarrow{v} ~\text{vs}~ t$ graph for a given set of data.
 
-
+**Disclaimer:** Do not take the output of this as ultimatum. If you choose to use this for your assignment, the original author does not take reponsibility for the output of this program.
+ 
 # Sample Graphs
 
 ![](dvst.png)
