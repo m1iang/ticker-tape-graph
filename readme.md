@@ -9,25 +9,18 @@
 
 # Sample Graphs
 
-## $\overrightarrow{d} ~\text{vs}~ t$
-
 ![](dvst.png)
 
-## $\overrightarrow{v} ~\text{vs}~ t$
 
 ![](vvst.png)
-
-## $\overrightarrow{a} ~\text{vs}~ t$
 
 ![](avst.png)
 
 # Deviation Graphs
 
-## $\overrightarrow{d} ~\text{vs}~ t$
 
 ![](dvst_deviation.png)
 
-## $\overrightarrow{v} ~\text{vs}~ t$
 
 ![](vvst_deviation.png)
 
